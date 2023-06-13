@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Start your development with Steller landing page.">
+    <meta name="description" content="Welcome to my portfolio! Explore and discover my work.">
     <meta name="author" content="Devcrud">
     <link rel="icon" type="image/ico" href="/assets/imgs/logo.svg"/>
     <title>Adib Farhan Portfolio</title>
